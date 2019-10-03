@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConcurrencyTestApi</string>
+    <string name="api_error_msg">Not able to fetch data. Please try again later!</string>
+</resources>
